@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "66cdaff640ee057eb51041c1"
+  },
+  "contact_name": {
+    "first": "Jane",
+    "last": "Doe"
+  },
+  "account_name": "Stark Industries",
+  "email": "jane.doe@example.com",
+  "phone": "555-7890",
+  "mobile": "555-8765",
+  "department": "Engineering",
+  "address": {
+    "mailing_street": "123 Marvel Blvd",
+    "mailing_city": "New York",
+    "mailing_state": "NY",
+    "mailing_zip": "10001",
+    "mailing_country": "USA",
+    "other_street": "456 Avengers Ave",
+    "other_city": "Los Angeles",
+    "other_state": "CA",
+    "other_zip": "90001",
+    "other_country": "USA"
+  },
+  "description": "Primary contact for Stark Industries' marketing campaigns.",
+  "visit_summary": {
+    "most_recent_visit": {
+      "$date": "2023-07-15T10:00:00.000Z"
+    },
+    "average_time_spent": 30,
+    "referrer": "LinkedIn",
+    "first_visit": {
+      "$date": "2023-05-20T09:00:00.000Z"
+    },
+    "number_of_chats": 4,
+    "visitor_score": 75,
+    "days_visited": 8
+  },
+  "contact_owner": {
+    "name": "Tony Stark"
+  },
+  "lead_source": "Referral",
+  "vendor_name": "Stark Enterprises",
+  "title": "Marketing Director",
+  "home_phone": "555-9871",
+  "other_phone": "555-6542",
+  "related_lists": {
+    "notes": [
+      {
+        "content": "Interested in a joint marketing campaign.",
+        "_id": {
+          "$oid": "66cdaff640ee057eb51041c2"
+        }
+      }
+    ],
+    "cadences": [
+      {
+        "name": "Follow-Up Campaign",
+        "_id": {
+          "$oid": "66cdaff640ee057eb51041c3"
+        }
+      }
+    ],
+    "attachments": [
+      {
+        "filename": "proposal.pdf",
+        "_id": {
+          "$oid": "66cdaff640ee057eb51041c4"
+        }
+      }
+    ],
+    "deals": [
+      {
+        "amount": 200000,
+        "stage": "Proposal Sent",
+        "close_date": {
+          "$date": "2023-09-30T00:00:00.000Z"
+        },
+        "_id": {
+          "$oid": "66cdaff640ee057eb51041c5"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "type": "Meeting",
+        "date": {
+          "$date": "2023-08-01T14:00:00.000Z"
+        },
+        "_id": {
+          "$oid": "66cdaff640ee057eb51041c6"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "Marketing Kit",
+        "_id": {
+          "$oid": "66cdaff640ee057eb51041c7"
+        }
+      }
+    ],
+    "cases": [
+      {
+        "status": "Open",
+        "_id": {
+          "$oid": "66cdaff640ee057eb51041c8"
+        }
+      }
+    ],
+    "quotes": [
+      {
+        "amount": 150000,
+        "_id": {
+          "$oid": "66cdaff640ee057eb51041c9"
+        }
+      }
+    ],
+    "sales_orders": [
+      {
+        "amount": 175000,
+        "_id": {
+          "$oid": "66cdaff640ee057eb51041ca"
+        }
+      }
+    ],
+    "purchase_orders": [
+      {
+        "amount": 125000,
+        "_id": {
+          "$oid": "66cdaff640ee057eb51041cb"
+        }
+      }
+    ],
+    "emails": [
+      {
+        "subject": "Project Update",
+        "date_sent": {
+          "$date": "2023-08-05T10:00:00.000Z"
+        },
+        "_id": {
+          "$oid": "66cdaff640ee057eb51041cc"
+        }
+      }
+    ],
+    "invoices": [
+      {
+        "amount": 200000,
+        "_id": {
+          "$oid": "66cdaff640ee057eb51041cd"
+        }
+      }
+    ],
+    "campaigns": [
+      {
+        "name": "Winter Promo",
+        "_id": {
+          "$oid": "66cdaff640ee057eb51041ce"
+        }
+      }
+    ],
+    "social": [
+      {
+        "platform": "Twitter",
+        "activity": "Retweeted a post",
+        "_id": {
+          "$oid": "66cdaff640ee057eb51041cf"
+        }
+      }
+    ],
+    "projects": [
+      {
+        "name": "Marketing Revamp",
+        "_id": {
+          "$oid": "66cdaff640ee057eb51041d0"
+        }
+      }
+    ],
+    "visits": [
+      {
+        "date": {
+          "$date": "2023-08-02T11:00:00.000Z"
+        },
+        "_id": {
+          "$oid": "66cdaff640ee057eb51041d1"
+        }
+      }
+    ]
+  },
+  "__v": 0
+}]

@@ -1,0 +1,258 @@
+[
+  {
+    "contact_name": {
+      "first": "John",
+      "last": "Doe"
+    },
+    "account_name": "Acme Corp",
+    "email": "john.doe@acmecorp.com",
+    "phone": "555-1234",
+    "mobile": "555-5678",
+    "department": "Sales",
+    "address": {
+      "mailing_street": "123 Main St",
+      "mailing_city": "Anytown",
+      "mailing_state": "CA",
+      "mailing_zip": "12345",
+      "mailing_country": "USA",
+      "other_street": "456 Elm St",
+      "other_city": "Othertown",
+      "other_state": "NY",
+      "other_zip": "67890",
+      "other_country": "USA"
+    },
+    "description": "Top client in the Western region",
+    "visit_summary": {
+      "most_recent_visit": "2023-08-01T00:00:00Z",
+      "average_time_spent": 45,
+      "referrer": "Google",
+      "first_visit": "2023-05-01T00:00:00Z",
+      "number_of_chats": 3,
+      "visitor_score": 85,
+      "days_visited": 12
+    },
+    "contact_owner": {
+      "name": "Jane Smith"
+    },
+    "lead_source": "Web",
+    "vendor_name": "Acme Supplies",
+    "title": "Sales Manager",
+    "home_phone": "555-9876",
+    "other_phone": "555-6543",
+    "related_lists": {
+      "notes": [
+        {
+          "content": "Met at the annual sales conference."
+        }
+      ],
+      "cadences": [
+        {
+          "name": "Follow-Up Sequence"
+        }
+      ],
+      "attachments": [
+        {
+          "filename": "contract.pdf"
+        }
+      ],
+      "deals": [
+        {
+          "amount": 50000,
+          "stage": "Negotiation",
+          "close_date": "2023-09-15T00:00:00Z"
+        }
+      ],
+      "activities": [
+        {
+          "type": "Call",
+          "date": "2023-07-25T00:00:00Z"
+        }
+      ],
+      "products": [
+        {
+          "name": "Product A"
+        }
+      ],
+      "cases": [
+        {
+          "status": "Resolved"
+        }
+      ],
+      "quotes": [
+        {
+          "amount": 75000
+        }
+      ],
+      "sales_orders": [
+        {
+          "amount": 60000
+        }
+      ],
+      "purchase_orders": [
+        {
+          "amount": 45000
+        }
+      ],
+      "emails": [
+        {
+          "subject": "Proposal Review",
+          "date_sent": "2023-08-02T00:00:00Z"
+        }
+      ],
+      "invoices": [
+        {
+          "amount": 50000
+        }
+      ],
+      "campaigns": [
+        {
+          "name": "Summer Promo"
+        }
+      ],
+      "social": [
+        {
+          "platform": "LinkedIn",
+          "activity": "Shared post"
+        }
+      ],
+      "projects": [
+        {
+          "name": "Q3 Marketing Plan"
+        }
+      ],
+      "visits": [
+        {
+          "date": "2023-07-10T00:00:00Z"
+        }
+      ]
+    }
+  },
+  {
+    "contact_name": {
+      "first": "Alice",
+      "last": "Johnson"
+    },
+    "account_name": "Globex Corporation",
+    "email": "alice.johnson@globex.com",
+    "phone": "555-2233",
+    "mobile": "555-9988",
+    "department": "Engineering",
+    "address": {
+      "mailing_street": "789 Market St",
+      "mailing_city": "Bigcity",
+      "mailing_state": "TX",
+      "mailing_zip": "75001",
+      "mailing_country": "USA",
+      "other_street": "321 Oak St",
+      "other_city": "Smalltown",
+      "other_state": "TX",
+      "other_zip": "75002",
+      "other_country": "USA"
+    },
+    "description": "Key technical contact for Globex Corporation",
+    "visit_summary": {
+      "most_recent_visit": "2023-08-05T00:00:00Z",
+      "average_time_spent": 60,
+      "referrer": "Direct",
+      "first_visit": "2023-06-10T00:00:00Z",
+      "number_of_chats": 5,
+      "visitor_score": 90,
+      "days_visited": 20
+    },
+    "contact_owner": {
+      "name": "Robert Brown"
+    },
+    "lead_source": "Referral",
+    "vendor_name": "Globex Services",
+    "title": "Chief Engineer",
+    "home_phone": "555-5544",
+    "other_phone": "555-7766",
+    "related_lists": {
+      "notes": [
+        {
+          "content": "Discussed project timelines."
+        }
+      ],
+      "cadences": [
+        {
+          "name": "Project Check-In"
+        }
+      ],
+      "attachments": [
+        {
+          "filename": "project_plan.pdf"
+        }
+      ],
+      "deals": [
+        {
+          "amount": 120000,
+          "stage": "Proposal",
+          "close_date": "2023-10-01T00:00:00Z"
+        }
+      ],
+      "activities": [
+        {
+          "type": "Email",
+          "date": "2023-08-03T00:00:00Z"
+        }
+      ],
+      "products": [
+        {
+          "name": "Product B"
+        }
+      ],
+      "cases": [
+        {
+          "status": "In Progress"
+        }
+      ],
+      "quotes": [
+        {
+          "amount": 110000
+        }
+      ],
+      "sales_orders": [
+        {
+          "amount": 95000
+        }
+      ],
+      "purchase_orders": [
+        {
+          "amount": 85000
+        }
+      ],
+      "emails": [
+        {
+          "subject": "Technical Specifications",
+          "date_sent": "2023-08-04T00:00:00Z"
+        }
+      ],
+      "invoices": [
+        {
+          "amount": 120000
+        }
+      ],
+      "campaigns": [
+        {
+          "name": "Fall Promo"
+        }
+      ],
+      "social": [
+        {
+          "platform": "Twitter",
+          "activity": "Liked tweet"
+        }
+      ],
+      "projects": [
+        {
+          "name": "Engineering Redesign"
+        }
+      ],
+      "visits": [
+        {
+          "date": "2023-07-20T00:00:00Z"
+        }
+      ]
+    }
+  }
+]
